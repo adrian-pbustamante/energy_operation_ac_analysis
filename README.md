@@ -31,9 +31,9 @@ The dashboard allows for dynamic filtering and exploration of the data, validati
 
 ### How to run ETL pipeline
 
-Clone repository to local machine
-Ensure the raw data ZIP files (Aires Acondicionados.zip, Energia.zip, etc.) are placed inside the ./data_raw/ directory.
-Execute the main ETL script from the root directory:
+Clone repository to local machine\
+Ensure the raw data ZIP files (Aires Acondicionados.zip, Energia.zip, etc.) are placed inside the ./data_raw/ directory.\
+Execute the main ETL script from the root directory:\
 
 <pre>
 python etl.py
